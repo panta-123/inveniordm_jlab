@@ -1,0 +1,13 @@
+{
+  "Servers": {
+    "1": {
+      "Name": "inveniordm_jlab-db",
+      "Group": "Servers",
+      "Host": "inveniordm_jlab-db-1",
+      "Port": 5432,
+      "MaintenanceDB": "postgres",
+      "Username": "inveniordm_jlab",
+      "SSLMode": "prefer"
+    }
+  }
+}
