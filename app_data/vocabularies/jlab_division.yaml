@@ -1,0 +1,38 @@
+- id: EPHA
+  title:
+    en: Experimental Physics Hall A
+- id: EPHB
+  title:
+    en: Experimental Physics Hall B
+- id: EPHC
+  title:
+    en: Experimental Physics Hall C
+- id: EPHD
+  title:
+    en: Experimental Physics Hall D
+- id: EPHE
+  title:
+    en: Experimental Physics EIC
+- id: EPHDA
+  title:
+    en: Experimental Physics Data Acquisition
+- id: EPHT
+  title:
+    en: Experimental Physics Target
+- id: EPHM
+  title:
+    en: Experimental Physics Magnet
+#- id: 
+#  title:
+#    en: Experimental Physics LERF
+#- id: INJ
+#  title:
+#    en: INJ
+#- id: TC
+#  title:
+#    en: Theory Center
+
+#- id: acc
+#Experimental Physics Hall LERF
+
+

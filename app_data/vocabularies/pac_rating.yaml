@@ -1,0 +1,24 @@
+- id: A
+  title:
+    en: A
+- id: A-
+  title:
+    en: A-
+- id: B+
+  title:
+    en: B+
+- id: B
+  title:
+    en: B
+- id: B-
+  title:
+    en: B-
+- id: C+
+  title:
+    en: C+
+- id: C
+  title:
+    en: C
+- id: C-
+  title:
+    en: C-

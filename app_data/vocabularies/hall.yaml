@@ -1,0 +1,13 @@
+- id: A
+  title:
+    en: Hall A
+- id: B
+  title:
+    en: Hall B
+- id: C
+  title:
+    en: Hall C
+- id: D
+  title:
+    en: Hall D
+

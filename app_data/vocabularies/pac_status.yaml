@@ -1,0 +1,51 @@
+- id: A
+  title:
+    en: A- Approved
+- id: AT
+  title:
+    en: AT- Approved Test
+- id: C1
+  title:
+    en: C1- Conditionally Approve w/Techinal Review
+- id: C2
+  title:
+    en: C2- Conditionally Approve 2/PAC Review
+- id: C3
+  title:
+    en: C3- Conditionally Approve, based on availability
+- id: C
+  title:
+    en: C- Conditionally Approve
+- id: D
+  title:
+    en: D- Deffered
+- id: O
+  title:
+    en: O- Dropped
+- id: S
+  title:
+    en: S- MPS Not yet funded
+- id: N
+  title:
+    en: N- New
+- id: P
+  title:
+    en: P- Pass
+- id: R
+  title:
+    en: R- Rejected
+- id: Q
+  title:
+    en: Q- Replaced
+- id: H
+  title:
+    en: H- Run Group Proposals
+- id: G
+  title:
+    en: G- Run Group Additions
+- id: U
+  title:
+    en: U- Unknown
+- id: W
+  title:
+    en: W- Withdrawn

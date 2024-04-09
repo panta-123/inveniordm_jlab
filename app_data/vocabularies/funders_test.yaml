@@ -1,0 +1,41 @@
+- id: 00mmn6b08
+  country: BE
+  identifiers:
+    - identifier: 00k4n6c32
+      scheme: ror
+  name: European Commission
+  title:
+    en: European Commission
+
+  
+- id: 01bj3aw27
+  country: US
+  identifiers:
+    - identifier: 01bj3aw27
+      scheme: ror
+  name: United States Department of Energy
+  title:
+    en: United States Department of Energy
+
+
+- id: 02atag894
+  country: US
+  identifiers:
+    - identifier: 02atag894
+      scheme: ror
+    - identifier: 0000000458977463
+      scheme: isni
+  name: Office of Nuclear Physics
+  title:
+    en: Office of Nuclear Physics
+
+- id: 00mmn6b08
+  country: US
+  identifiers:
+    - identifier: 00mmn6b08
+      scheme: ror
+  name: Office of Science
+  title:
+    en: Office of Science
+
+  
