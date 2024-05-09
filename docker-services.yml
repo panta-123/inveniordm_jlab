@@ -19,6 +19,7 @@ services:
       - "INVENIO_SQLALCHEMY_DATABASE_URI=postgresql+psycopg2://inveniordm_jlab:inveniordm_jlab@db/inveniordm_jlab"
       - "INVENIO_WSGI_PROXIES=2"
       - "INVENIO_RATELIMIT_STORAGE_URL=redis://:Nepal1994@cache:6379/3"
+      - "INVENIO_COMMUNITIES_IDENTITIES_CACHE_REDIS_URL=redis://:Nepal1994@cache:6379/4"
   frontend:
     build: ./docker/nginx/
     image: inveniordm_jlab-frontend
@@ -33,7 +34,6 @@ services:
     command: /bin/sh -c "redis-server --requirepass Nepal1994"
     ports:
       - "6379:6379"
-    #'redis-server --appendonly yes --requirepass ${Nepal1994@}'
   db:
     image: postgres:12.4
     restart: "unless-stopped"

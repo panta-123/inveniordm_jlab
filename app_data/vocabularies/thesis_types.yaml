@@ -1,0 +1,15 @@
+- id: "thesis.doctoral"
+  title:
+    en: "PhD thesis"
+- id: "thesis.habilitation"
+  title:
+    en: "Habilitation treatise"
+- id: "bachelor"
+  title:
+    en: "Bachelor's thesis"
+- id: "master"
+  title:
+    en: "Master's thesis"
+- id: "Diplom"
+  title:
+    en: "Diploma thesis"
