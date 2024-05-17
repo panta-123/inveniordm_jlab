@@ -1,34 +1,50 @@
+- id: 12DO
+  title:
+    en: 12 Gev Director's Office
+
+- id: AORD
+  title:
+    en: Accelerator Ops, R&D
+
+- id: CFO
+  title:
+    en: CFO Div Summary
+
+- id: COO
+  title:
+    en: Chief Operting Officr Off 
+
+- id: CSO
+  title:
+    en: Chief Scientist Office
+
+- id: CSDS
+  title:
+    en: Comp Sci&Tech (CST) Div
+
+- id: DIR
+  title:
+    en: Directorate
+
+- id: EIC
+  title: 
+    en: EIC
+
+- id: ESHD
+  title:
+    en: ES&H Division
+
+- id: ENG
+  title:
+    en: Engineering Division
+
 - id: ENPTSG-CP
   title:
-    en: Exp Nuclear Physics / Technical Support Groups / Cryo/Polarized Targets
-
-- id: ENPTSG-FE
-  title:
-    en: Exp Nuclear Physics / Technical Support Groups / Fast Electronics
-
-- id: ENPTSG-DET
-  title:
-    en: Exp Nuclear Physics / Technical Support Groups / Detector
-
-- id: ENPTSG-DA
-  title:
-    en: Exp Nuclear Physics / Technical Support Groups / Data Acquisition
-
-- id: ENPTSG-CT
-  title:
-    en: Exp Nuclear Physics / Technical Support Groups / Cryo/Polarized Targets
-
-- id: ENPTSG-UL
-  title:
-    en: Exp Nuclear Physics / Technical Support Groups / User Liaison
+    en: Exp Nuclear Physics / Technical Support Groups
 
 - id: ENPH-PDO-ADMIN
   title:
-    en: Exp Nuclear Physics / Physics Division Office / Administrative
-
-- id: ENPH-PDO-PDUR
-  title:
-    en: Exp Nuclear Physics / Physics Division Office / Phys Div Univ Relations
+    en: Exp Nuclear Physics / Physics Division Office
 
 - id: ENPH-EH-PM
   title:
@@ -50,142 +66,38 @@
   title:
     en: Exp Nuclear Physics / Experimental Halls / Hall D
 
+- id: ENPH-EHBDTS
+  tile:
+    en:  Exp Nuclear Physics / Experimental Halls / Hall B&D Technical Support
+
 - id: ENPH-EHPH
   title:
     en: Exp Nuclear Physics / Experimental Halls / Physics EIC
 
-- id: AORD-ISST-SRF-CMP
+- id: ENPH-OTHER
   title:
-    en: Accelerator Ops, R&D / Inst for SRF Sci & Tech / SRF CM Production
+    en: Exp Nuclear Physics / OTHERS
 
-- id: CSO-CSO-CSO
+- id: FEL-CTO
   title:
-    en: Chief Scientist Office / Chief Scientist Office / Chief Scientist Office
+    en: FEL & CTO
 
-- id: ESHD-ESHQ
+- id: FLM
   title:
-    en: ES&H Division / ES&H Division / ESH&Q Division
+    en: Facilities & Logistcs Mgt
 
-- id: DIR-DIR-DIR
+- id: PMI
   title:
-    en: Directorate / Directorate / Directorate
+    en: Proj Mgmt & Integration
 
-- id: CSDS-DS
+- id: SPPU
   title:
-    en: Comp Sci&Tech (CST) Div / Data Science / Data Science
+    en: SNS PPU
 
-- id: ESHD-RAD-CTRL
+- id: TCP
   title:
-    en: ES&H Division / ES&H Division / Radiation Control
+    en: Theory & Comp Physics
 
-- id: ESHD-ESHQ-LEAD
+- id: OTHERS
   title:
-    en: ES&H Division / ES&H Division / ESH Division Leadership
-
-- id: AORD-OPS
-  title:
-    en: Accelerator Ops, R&D / Accelerator Operations / Operations
-
-- id: AORD-ISST-OS
-  title:
-    en: Accelerator Ops, R&D / Inst for SRF Sci & Tech / Operations Support
-- id: AORD-ISST-SRF-PM
-  title:
-    en: Accelerator Ops, R&D / Inst for SRF Sci & Tech / SRF Processes & Materials
-
-- id: AORD-OPS-INJ-GP
-  title:
-    en: Accelerator Ops, R&D / Accelerator Operations / Ops Injector Group
-
-- id: AORD-CASAC-CASAC
-  title:
-    en: Accelerator Ops, R&D / Cntr-Adv Studies of Acce / Ctr for Adv Stud of Accel
-
-- id: COO-HRS-SE
-  title:
-    en: Chief Operting Officr Off / Human Resources &Services / Science Education
-
-- id: AORD-ISST-SRF-RD
-  title:
-    en: Accelerator Ops, R&D / Inst for SRF Sci & Tech / SRF Research & Dev
-
-- id: ENG-EES-SSS
-  title:
-    en: Engineering Division / Electrical Systems / EES Support Services
-
-- id: AORD-ISST-SRF-TM
-  title:
-    en: Accelerator Ops, R&D / Inst for SRF Sci & Tech / SRF Test & Measurement
-
-- id: ENG-MS-ME
-  title:
-    en: Engineering Division / Mechanical Systems / Mechanical Engineering
-
-- id: AORD-OPS-AHAA
-  title:
-    en: Accelerator Ops, R&D / Accelerator Operations / Analysis & High-Level App
-
-- id: AORD-ISST-SRF-ENG
-  title:
-    en: Accelerator Ops, R&D / Inst for SRF Sci & Tech / SRF Engineering
-
-- id: ENG-EES-RFS
-  title:
-    en: Engineering Division / Electrical Systems / EES RF Systems
-
-- id: ENG-EES-ICS
-  title:
-    en: Engineering Division / Electrical Systems / EES I&C Systems
-
-- id: AORD-ISST-SRF-CP
-  title:
-    en: Accelerator Ops, R&D / Inst for SRF Sci & Tech / SRF Cavity Production
-
-- id: AORD-ISST-SRF-SP
-  title:
-    en: Accelerator Ops, R&D / Inst for SRF Sci & Tech / SRF Special Projects
-
-- id: AORD-ISST-SRF-ST
-  title:
-    en: Accelerator Ops, R&D / Inst for SRF Sci & Tech / SRF Science & Technology
-
-- id: AORD-ISST-SRF-PS
-  title:
-    en: Accelerator Ops, R&D / Inst for SRF Sci & Tech / SRF Project Support
-
-- id: ENG-MS-CRY
-  title:
-    en: Engineering Division / Mechanical Systems / Cryogenics
-
-- id: AORD-OPS-AODM
-  title:
-    en: Accelerator Ops, R&D / Accelerator Operations / Accel Ops Dept Mgt
-
-- id: AORD-OPS-OAG
-  title:
-    en: Accelerator Ops, R&D / Accelerator Operations / Ops Admin Group
-
-- id: AORD-CIS-CIS
-  title:
-    en: Accelerator Ops, R&D / Ctr For Injectors&Sources / Ctr for Injectors&Sources
-
-- id: TCP-TC-TC
-  title:
-    en: Theory & Comp Physics / THEORY CENTER / THEORY CENTER
-
-- id: AORD-OPS-ACG
-  title:
-    en: Accelerator Ops, R&D / Accelerator Operations / Accel Computing Group
-
-- id: AORD-ADO-ADM
-  title:
-    en: Accelerator Ops, R&D / Accel Division Office / Accel Division Management
-
-- id: CSDS-CS-TD-O
-  title:
-    en: Comp Sci&Tech (CST) Div / Comp Sci&Tech Div Office / Comp Sci&Tech Div Office
-
-- id: CSDS-CS-SC
-  title:
-    en: Comp Sci&Tech (CST) Div / Scientific Computing / Scientific Computing
-
+    en: OTHERS
